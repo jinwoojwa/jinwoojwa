@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**jinwoojwa/jinwoojwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Happy%20to%20have%20you%20here%20😎&fontSize=60)
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in Touch
+
+[![GitHub Pages](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://jinwoojwa.github.io/)
+
+<br><br>
+
+### Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoojwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
