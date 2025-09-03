@@ -1,13 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Happy%20to%20have%20you%20here%20😎&fontSize=60)
+<div align=center>
 
-<br><br>
+<h4>🖐🏼 Hi, I'm Jwajinwoo, a backend developer.</h4>
 
-### Get in Touch
+<pre>
+I strive to build reliable and scalable systems.
+I also value clear communication for effective collaboration.
+</pre>
 
-[![GitHub Pages](https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://jinwoojwa.github.io/)
+<br>
 
-<br><br>
+<pre>
+  📚 Blog   : [https://jinwoojwa.github.io](https://jinwoojwa.github.io/)
+</pre>
 
-### Github Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoojwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
