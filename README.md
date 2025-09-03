@@ -10,7 +10,7 @@ I also value clear communication for effective collaboration.
 <br>
 
 <pre>
-  📚 Blog   : [https://jinwoojwa.github.io](https://jinwoojwa.github.io/)
+  📚 Blog   : <a href="https://jinwoojwa.github.io">jinwoojwa.github.io</a>
 </pre>
 
 </div>
