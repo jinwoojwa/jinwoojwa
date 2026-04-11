@@ -1,8 +1,8 @@
-#### 🖐🏼 안녕하세요!
+#### 🖐🏼 안녕하세요! 
 
 <pre>
-I strive to build reliable and scalable systems.
-I also value clear communication for effective collaboration.
+안정적인 서비스와 확장 가능한 구조를 고민합니다.
+명확한 소통과 문서화를 통해 효율적인 협업을 지향합니다.
 </pre>
 
 <br>
