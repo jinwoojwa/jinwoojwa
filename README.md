@@ -1,5 +1,3 @@
-#### 🖐🏼 안녕하세요! 
-
 <pre>
   📚 Blog      : <a href="https://jinwoojwa.github.io">jinwoojwa.github.io</a>
   📂 Portfolio : <a href="https://jinwoojwa.github.io/portfolio/">jinwoojwa.github.io/portfolio</a>
