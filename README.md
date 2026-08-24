@@ -1,5 +1,5 @@
 <pre>
-  📚 Study     : <a href="https://jinwoojwa.github.io">jinwoojwa.github.io</a>
+  📚 Blog     : <a href="https://icematcha.tistory.com">https://icematcha.tistory.com</a>
   📂 Portfolio : <a href="https://jinwoojwa.github.io/portfolio/">jinwoojwa.github.io/portfolio</a>
 </pre>
 
@@ -9,7 +9,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
 
