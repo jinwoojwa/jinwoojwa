@@ -1,5 +1,5 @@
 <pre>
-  📚 Blog     : <a href="https://icematcha.tistory.com">https://icematcha.tistory.com</a>
+  📚 Blog      : <a href="https://icematcha.tistory.com">https://icematcha.tistory.com</a>
   📂 Portfolio : <a href="https://jinwoojwa.github.io/portfolio/">jinwoojwa.github.io/portfolio</a>
 </pre>
 
