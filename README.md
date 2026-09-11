@@ -3,7 +3,9 @@
   📂 Portfolio : <a href="https://jinwoojwa.github.io/portfolio/">jinwoojwa.github.io/portfolio</a>
 </pre>
 
-<br>
+---
+
+### Tech Stack
 
 #### Languages
 
@@ -37,6 +39,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
+
+---
+
+#### Certifications
+
+- **SQL 개발자 (SQLD)** — 한국데이터산업진흥원 *(2024. 06. 21.)*
+- **정보처리기사** — 한국산업인력공단 *(2026. 09. 11.)*
+
+---
 
 #### Currently Learning
 
